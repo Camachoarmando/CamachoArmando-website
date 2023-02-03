@@ -1,0 +1,56 @@
+<style>
+body {
+    background-color: #FF9900;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 40px;
+    font-family: Arial;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+    font-family: Arial;
+    color: #0000FF;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    font-family: Arial;
+    color: #FF0000;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+a:link {
+    color: #000000;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+a:visited {
+    color: #000000;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+a:hover {
+    color: #FF0000;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+table, th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    font-size: 16px;
+    font-family: Arial;
+    color: #D27D2D;
+    font-weight: bold;
+    text-align: center;
+}
+</style>
